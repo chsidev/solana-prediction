@@ -8,3 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 # Change 2 on 2024-03-09
 # Change 0 on 2024-03-12
 # Change 0 on 2024-03-30
+# Change 2 on 2024-04-04
