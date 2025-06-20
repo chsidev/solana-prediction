@@ -1,0 +1,15 @@
+
+.anchor
+.DS_Store
+**/*.rs.bk
+node_modules
+test-ledger
+target
+aggr
+sdk/lib
+crank/lib
+.env*
+.env.*
+server/frontend
+server/aggr
+solana-wallet-mobile-vite-vue-ts
